@@ -34,5 +34,5 @@ javac tbd1/tableGen4.java && java -cp tbd1 tableGen4
 ### 3. Import ke phpMyAdmin
 1. Pilih database yang sudah dibuat
 2. Klik tab "Import"
-3. Upload file SQL yang dihasilkan (all.sql, all2.sql, dll)
+3. Upload file SQL yang dihasilkan menyesuaikan scenario
 4. Klik "Go" untuk import
